@@ -1,0 +1,4 @@
+export const CONTRACT_ADDRESS = "0xd593813d5149984bEE37C141356d70530d1f86E5";
+export const SUPPORTED_CHAINS = {
+  11155111: "Sepolia Testnet"
+};
