@@ -1,0 +1,36 @@
+# =============================
+# 🔧 Normalize line endings
+# =============================
+* text=auto
+
+# Explicit text handling for common dev files
+*.js     text
+*.jsx    text
+*.ts     text
+*.tsx    text
+*.css    text
+*.scss   text
+*.html   text
+*.json   text
+*.md     text
+*.yml    text
+*.yaml   text
+*.sol    text
+*.env    text
+*.sh     text eol=lf
+
+# Treat lock files as binary to prevent merge conflicts
+package-lock.json binary
+crowdfunding-dapp/package-lock.json binary
+
+# Ignore generated binaries (images, fonts)
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.ico    binary
+*.svg    binary
+*.woff   binary
+*.woff2  binary
+*.ttf    binary
+*.eot    binary

@@ -1,17 +1,46 @@
-node_modules
+# ===================================================
+# 📦 Node modules & environment files
+# ===================================================
+node_modules/
 .env
+.env.local
+.env.development.local
+.env.production.local
 
-# Hardhat files
-/cache
-/artifacts
+# ===================================================
+# 🔨 Hardhat build artifacts and cache
+# ===================================================
+artifacts/
+cache/
+coverage/
+coverage.json
+typechain/
+typechain-types/
 
-# TypeChain files
-/typechain
-/typechain-types
+# Hardhat Ignition deployments
+ignition/deployments/chain-31337/
 
-# solidity-coverage files
-/coverage
-/coverage.json
+# ===================================================
+# ⚛️ React App (crowdfunding-dapp)
+# ===================================================
+crowdfunding-dapp/node_modules/
+crowdfunding-dapp/.env
+crowdfunding-dapp/.env.local
+crowdfunding-dapp/.env.development.local
+crowdfunding-dapp/build/
+crowdfunding-dapp/coverage/
 
-# Hardhat Ignition default folder for deployments against a local node
-ignition/deployments/chain-31337
+# ===================================================
+# 🧪 Logs & test output
+# ===================================================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===================================================
+# 🧹 Misc OS/editor
+# ===================================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
