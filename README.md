@@ -21,13 +21,13 @@ FundFlow is a blockchain-powered decentralized crowdfunding platform that empowe
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home](./screenshots/Screenshot%202025-06-30%20221944.png)
+![Home](./screenshots/Screenshot_1.png)
 
 ### 📋 All Campaigns
-![Campaigns](./screenshots/Screenshot%20(29).png)
+![Campaigns](./screenshots/Screenshot_2.png)
 
 ### 📊 Dashboard
-![Dashboard](./screenshots/Screenshot%20(30).png)
+![Dashboard](./screenshots/Screenshot_3.png)
 
 > ⚠️ *Make sure these screenshot image files are saved in the `screenshots/` folder of your project repository for them to display properly on GitHub.*
 
