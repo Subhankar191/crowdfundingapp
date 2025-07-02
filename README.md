@@ -29,6 +29,9 @@ FundFlow is a blockchain-powered decentralized crowdfunding platform that empowe
 ### 📊 Dashboard
 ![Dashboard](./crowdfunding-dapp/screenshots/Screenshot_3.png)
 
+### 📊 Dashboard
+![Dashboard](./crowdfunding-dapp/screenshots/Screenshot_4.png)
+
 > ⚠️ *Make sure these screenshot image files are saved in the `screenshots/` folder of your project repository for them to display properly on GitHub.*
 
 ---
