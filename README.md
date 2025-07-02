@@ -1,20 +1,14 @@
 # 🚀 FundFlow – Decentralized Crowdfunding Platform
 
-FundFlow is a blockchain-powered decentralized crowdfunding platform that empowers users to **create**, **explore**, and **contribute** to campaigns transparently using Ethereum. Built with a sleek UI using React and Tailwind CSS, and secured with smart contracts deployed via Hardhat.
+FundFlow is a blockchain-powered decentralized crowdfunding platform that empowers users to **create**, **explore**, and **contribute** to campaigns transparently using Ethereum. 
+
+Built with a sleek UI using **React.js** .**Ether.js** and **Tailwind CSS**, and secured with smart contracts deployed via **Hardhat**.
 
 ---
 
-## ✨ Features
+## 🌐 Live Preview
 
-- 🔐 **Wallet Integration** – Connect your Ethereum wallet to interact with the platform.
-- ➕ **Create Campaign** – Launch your own crowdfunding campaign with custom goals and deadlines.
-- 📂 **Explore Campaigns** – Browse all campaigns with filters for All, Active, Successful, and Failed.
-- 📊 **Dashboard** – View your created and backed campaigns with real-time status.
-- 🧠 **Smart Contract Powered** – Ethereum blockchain ensures transparency and security.
-- 🧮 **Live Stats** – Track raised funds, goal completion, and campaign status.
-- 📁 **List/Grid Toggle** – Easily switch between layouts for browsing campaigns.
-- 🎯 **Progress Bars & Status Tags** – Visual indicators of campaign health.
-- 🧾 **Success Metrics** – See overall campaign stats like total raised and success rate.
+> ⚠️ This app is designed for **local fullstack deployment** (React + Ether.js).
 
 ---
 
@@ -32,7 +26,19 @@ FundFlow is a blockchain-powered decentralized crowdfunding platform that empowe
 ### 📊 Dashboard
 ![Dashboard](./crowdfunding-dapp/screenshots/Screenshot_4.png)
 
-> ⚠️ *Make sure these screenshot image files are saved in the `screenshots/` folder of your project repository for them to display properly on GitHub.*
+---
+
+## ✨ Features
+
+- 🔐 **Wallet Integration** – Connect your Ethereum wallet to interact with the platform.
+- ➕ **Create Campaign** – Launch your own crowdfunding campaign with custom goals and deadlines.
+- 📂 **Explore Campaigns** – Browse all campaigns with filters for All, Active, Successful, and Failed.
+- 📊 **Dashboard** – View your created and backed campaigns with real-time status.
+- 🧠 **Smart Contract Powered** – Ethereum blockchain ensures transparency and security.
+- 🧮 **Live Stats** – Track raised funds, goal completion, and campaign status.
+- 📁 **List/Grid Toggle** – Easily switch between layouts for browsing campaigns.
+- 🎯 **Progress Bars & Status Tags** – Visual indicators of campaign health.
+- 🧾 **Success Metrics** – See overall campaign stats like total raised and success rate.
 
 ---
 
