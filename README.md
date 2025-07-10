@@ -46,9 +46,9 @@ Built with a sleek UI using **React.js** .**Ether.js** and **Tailwind CSS**, and
 
 | Frontend     | Blockchain    | Deployment         |
 |--------------|---------------|--------------------|
-| React        | Solidity       | Hardhat            |
-| Tailwind CSS | Ethers.js      | MetaMask + Sepolia |
-| TypeScript   | OpenZeppelin   | –                  |
+| React        | Solidity      | Hardhat            |
+| Tailwind CSS | Ethers.js     | MetaMask + Sepolia |
+| TypeScript   | OpenZeppelin  |        –           |
 
 ---
 ## 📁 Folder Structure
