@@ -8,7 +8,7 @@ Built with a sleek UI using **React.js** .**Ether.js** and **Tailwind CSS**, and
 
 ## 🌐 Live Preview
 
-> ⚠️ This app is designed for **local fullstack deployment** (React + Ether.js).
+> https://crowdfundingapp-flax.vercel.app/campaigns
 
 ---
 
