@@ -1,6 +1,30 @@
 # 🚀 FundFlow – Decentralized Crowdfunding Platform
 
-FundFlow is a blockchain-powered decentralized crowdfunding platform that empowers users to **create**, **explore**, and **contribute** to campaigns transparently using Ethereum. Built with a sleek UI using React and Tailwind CSS, and secured with smart contracts deployed via Hardhat.
+FundFlow is a blockchain-powered decentralized crowdfunding platform that empowers users to **create**, **explore**, and **contribute** to campaigns transparently using Ethereum. 
+
+Built with a sleek UI using **React.js** .**Ether.js** and **Tailwind CSS**, and secured with smart contracts deployed via **Hardhat**.
+
+---
+
+## 🌐 Live Preview
+
+> ⚠️ This app is designed for **local fullstack deployment** (React + Ether.js).
+
+---
+
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+![Home](./crowdfunding-dapp/screenshots/Screenshot_1.png)
+
+### 📋 All Campaigns
+![Campaigns](./crowdfunding-dapp/screenshots/Screenshot_2.png)
+
+### 📊 Dashboard
+![Dashboard](./crowdfunding-dapp/screenshots/Screenshot_3.png)
+
+### 📊 Dashboard
+![Dashboard](./crowdfunding-dapp/screenshots/Screenshot_4.png)
 
 ---
 
@@ -18,31 +42,54 @@ FundFlow is a blockchain-powered decentralized crowdfunding platform that empowe
 
 ---
 
-## 🖼️ Screenshots
-
-### 🏠 Home Page
-![Home](./screenshots/Screenshot_1.png)
-
-### 📋 All Campaigns
-![Campaigns](./screenshots/Screenshot_2.png)
-
-### 📊 Dashboard
-![Dashboard](./screenshots/Screenshot_3.png)
-
-> ⚠️ *Make sure these screenshot image files are saved in the `screenshots/` folder of your project repository for them to display properly on GitHub.*
-
----
-
 ## 🛠 Tech Stack
 
 | Frontend     | Blockchain    | Deployment         |
 |--------------|---------------|--------------------|
-| React        | Solidity       | Hardhat            |
-| Tailwind CSS | Ethers.js      | MetaMask + Sepolia |
-| TypeScript   | OpenZeppelin   | –                  |
+| React        | Solidity      | Hardhat            |
+| Tailwind CSS | Ethers.js     | MetaMask + Sepolia |
+| TypeScript   | OpenZeppelin  |        –           |
 
 ---
-
+## 📁 Folder Structure
+```
+CROWDFUNDING/
+├── artifacts/ # Hardhat compilation artifacts
+├── cache/ # Hardhat cache
+├── contracts/ # Smart contracts
+├── crowdfunding-dapp/ # Frontend application
+├── ignition/ # Deployment scripts
+├── scripts/ # Utility scripts
+├── test/ # Smart contract tests
+├── public/ # Static assets
+├── screenshots/ # Application screenshots
+├── src/ # React source code
+│ ├── components/ # Reusable UI components
+│ ├── campaigns/ # Campaign-related components
+│ ├── common/ # Shared components
+│ ├── dashboard/ # Dashboard components
+│ ├── context/ # React context providers
+│ ├── hooks/ # Custom React hooks
+│ ├── pages/ # Application pages
+│ ├── utils/ # Utility functions
+│ ├── App.css # Main styles
+│ ├── App.js # Root component
+│ ├── App.test.js # App tests
+│ ├── index.css # Global styles
+│ ├── index.js # Entry point
+│ ├── logo.svg # Application logo
+│ ├── reportWebVitals.js # Performance metrics
+│ └── setupTests.js # Test configuration
+├── .env # Environment variables
+├── .gitattributes # Git attributes
+├── .gitignore # Git ignore rules
+├── hardhat.config.js # Hardhat configuration
+├── package.json # Project dependencies
+├── package-lock.json # Dependency lockfile
+├── README.md # Project documentation
+└── tailwind.config.js # Tailwind CSS configuration
+```
+---
 ## 🧑‍💻 Local Setup
 
 ```bash
