@@ -8,7 +8,7 @@ Built with a sleek UI using **React.js** .**Ether.js** and **Tailwind CSS**, and
 
 ## 🌐 Live Preview
 
-> [https://crowdfundingapp-flax.vercel.app/campaigns](https://crowdfundingapp-git-main-subhankardas8114-7492s-projects.vercel.app/)
+> [https://crowdfundingapp-flax.vercel.app](https://crowdfundingapp-git-main-subhankardas8114-7492s-projects.vercel.app/)
 
 ---
 
